@@ -1,0 +1,5 @@
+Name: Adilzhan
+Surname: Abdambayev
+Group: IT2-2309
+Student ID: 37144
+Course: DevOps
